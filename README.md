@@ -1,4 +1,5 @@
-Praticando Lógica de Programação
+# Praticando Lógica de Programação
+
 Este repositório contém uma série de exercícios em Java focados em práticas de lógica de programação. Eles são úteis para consolidar conceitos fundamentais e melhorar as habilidades de resolução de problemas.
 
 Como Executar Para executar esses programas, siga estas etapas:
