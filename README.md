@@ -2,11 +2,12 @@
 
 Este repositório contém uma série de exercícios em Java focados em práticas de lógica de programação. Eles são úteis para consolidar conceitos fundamentais e melhorar as habilidades de resolução de problemas.
 
-Como Executar Para executar esses programas, siga estas etapas:
+# Como Executar Para executar esses programas, siga estas etapas:
 
 Baixe o arquivo ZIP deste repositório. Extraia o conteúdo do arquivo ZIP para o local desejado em seu computador. Abra sua IDE Java de preferência (por exemplo, Eclipse, IntelliJ IDEA, NetBeans). Importe o projeto contendo os arquivos de código-fonte Java extraídos. Execute cada programa individualmente a partir de sua IDE.
 
-Execução: Cada exercício está contido em seu próprio arquivo Java. Para executar, basta abrir o arquivo na sua IDE e executar o código.
+# Execução: 
+Cada exercício está contido em seu próprio arquivo Java. Para executar, basta abrir o arquivo na sua IDE e executar o código.
 
 
 1 - Soma de 4 Números:
